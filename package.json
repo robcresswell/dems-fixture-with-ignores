@@ -1,0 +1,10 @@
+{
+  "name": "{{ name }}",
+  "version": "1.0.0",
+  "description": "{{ description }}",
+  "main": "index.js",
+  "repository": "https://github.com/robcresswell/dems-example",
+  "author": "Rob Cresswell <robcresswell@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
